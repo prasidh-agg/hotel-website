@@ -1,2 +1,0 @@
-# HotelWebsiteResponsive
-permalink: /index.html
